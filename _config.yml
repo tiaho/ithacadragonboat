@@ -31,7 +31,8 @@ baseurl: ""
 github_username:  ithacadragonboat
 
 # Build settings
-theme: minima
+# theme: minima
+theme: remote_theme: hanuman
 plugins:
   - jekyll-feed
 
