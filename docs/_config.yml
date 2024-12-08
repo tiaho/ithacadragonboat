@@ -24,8 +24,8 @@ description:
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-domain: "ithacadragonboat.net"    # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: "https://ithacadragonboat.net" # the base hostname and protocol for your site, e.g. http://example.com
+domain: ithacadragonboat.net    # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://ithacadragonboat.net # the base hostname and protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  ithacadragonboat
 
