@@ -32,7 +32,7 @@ github_username:  ithacadragonboat
 
 # Build settings
 # theme: minima
-theme: remote_theme: hanuman
+remote_theme: hanuman
 plugins:
   - jekyll-feed
 
