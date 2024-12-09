@@ -25,7 +25,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="/assets/css/style.css?v=203a9246876c13f095fd132176ba1dddab0a3a53">
+    <link rel="stylesheet" href="/assets/css/style.css?v=6296cab3d922ea2c87e16632e0f498d3f7c6eed0">
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
@@ -77,6 +77,18 @@
         </ul>
       </nav>
     </header>
+
+    <script>
+      // Get the hamburger menu and the nav-links
+      const hamburgerMenu = document.querySelector('.hamburger-menu');
+      const navLinks = document.querySelector('.nav-links');
+
+      // Add click event listener to hamburger menu
+      hamburgerMenu.addEventListener('click', () => {
+        // Toggle the 'active' class on navLinks
+        navLinks.classList.toggle('active');
+      });
+    </script>
 
 
     <!-- Main Content -->

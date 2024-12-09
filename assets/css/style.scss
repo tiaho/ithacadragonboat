@@ -125,17 +125,12 @@ header {
   /* Show the hamburger menu on mobile */
   .hamburger-menu {
     display: block;
+    height: 3.5vh;
   }
 
   /* Show nav-links on hover of hamburger menu */
-  .nav-bar:hover .nav-links {
-    display: flex;  /* Show the navigation menu when hovering over the nav-bar */
-  }
-
-  /* Ensure that the menu remains visible even if the mouse is on the nav-links */
-  .nav-bar:hover .hamburger-menu,
-  .nav-bar:hover .nav-links {
-    display: block;  /* Show both hamburger icon and nav-links */
+  .nav-links.active {
+    display: flex;  /* Show the navigation menu when clicking the hamburger menu icon */
   }
 
 }

@@ -349,11 +349,9 @@ header { background-color: #333; color: white; padding: 1vh 0; position: fixed; 
 @media screen and (max-width: 768px) { /* Hide the normal nav menu on mobile */
   .nav-links { display: none; position: absolute; top: 4vh; right: 1vw; background-color: #333; border-radius: 8px; padding: 10px; width: 100%; flex-direction: column; /* Stack navigation items vertically */ align-items: flex-start; }
   /* Show the hamburger menu on mobile */
-  .hamburger-menu { display: block; }
+  .hamburger-menu { display: block; height: 3.5vh; }
   /* Show nav-links on hover of hamburger menu */
-  .nav-bar:hover .nav-links { display: flex; /* Show the navigation menu when hovering over the nav-bar */ }
-  /* Ensure that the menu remains visible even if the mouse is on the nav-links */
-  .nav-bar:hover .hamburger-menu, .nav-bar:hover .nav-links { display: block; /* Show both hamburger icon and nav-links */ } }
+  .nav-links.active { display: flex; /* Show the navigation menu when clicking the hamburger menu icon */ } }
 /* Prevent content from hiding behind the fixed navbar */
 body { padding-top: 5.8vh; /* Adjust based on your navbar height */ }
 

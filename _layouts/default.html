@@ -49,6 +49,18 @@
       </nav>
     </header>
 
+    <script>
+      // Get the hamburger menu and the nav-links
+      const hamburgerMenu = document.querySelector('.hamburger-menu');
+      const navLinks = document.querySelector('.nav-links');
+
+      // Add click event listener to hamburger menu
+      hamburgerMenu.addEventListener('click', () => {
+        // Toggle the 'active' class on navLinks
+        navLinks.classList.toggle('active');
+      });
+    </script>
+
 
     <!-- Main Content -->
     <main id="content" class="main-content" role="main">
