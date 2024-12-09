@@ -7,7 +7,7 @@ permalink: /contact_us/
 
 <a href="mailto:ithacadragonboat2004@gmail.com">
 	<img src="/assets/images/email_icon.png" alt="Email" width="35vh" style="position: relative; top: 1vh">
-[Email Us](mailto:ithacadragonboat2004@gmail.com)
+[Email Us](mailto:hello@ithacadragonboat.net)
 
 <a href="https://www.facebook.com/IthacaDragonBoatClub/">
 	<img src="/assets/images/facebook_icon.png" alt="Facebook" width="35vh" style="position: relative; top: 1vh">
