@@ -40,7 +40,8 @@
     <!-- Navigation Bar -->
     <header>
       <nav class="nav-bar">
-        <div class="nav-toggle" onclick="toggleNav()">&#9776;</div>
+        <div class="hamburger-menu">&#9776;</div>
+        <!-- <div class="nav-toggle" onclick="toggleNav()">&#9776;</div> -->
         <ul class="nav-links">
           {% for item in site.navigation %}
             <li><a href="{{ item.url }}">{{ item.title }}</a></li>
@@ -67,7 +68,7 @@
         <a href="https://www.facebook.com/IthacaDragonBoatClub/"><img src="/assets/images/facebook_icon.png" alt="Facebook" width="35vh" style="position: relative; top: 1vh">
         <a href="https://www.instagram.com/ithaca_dragon_boat/"><img src="/assets/images/instagram_icon.png" alt="Instagram" width="35vh" style="position: relative; top: 1vh">
         <a href="https://www.meetup.com/Ithaca-Dragon-Boat-Club/"><img src="/assets/images/meetup_icon.png" alt="Meetup" width="35vh" style="position: relative; top: 1vh">
-          
+
      <!--    {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %} -->
