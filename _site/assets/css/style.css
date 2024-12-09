@@ -323,8 +323,29 @@ a:hover { text-decoration: underline; }
 
 .site-footer-credits { color: #819198; }
 
-.page-header { position: relative; display: flex; /* Enable Flexbox */ flex-direction: column; /* Stack elements vertically */ justify-content: center; /* Align text inthe gradient area */ align-items: center; /* Align text itself*/ text-align: center; /* Combined background with image and gradient */ background-image: url("/assets/images/logo_idbc–sticker square.jpg"), linear-gradient(120deg, #155799, #159957); /* Custom image from _config.yml */ background-size: 30% 100%, cover; background-position: left center, right center; /* Image on the left, gradient on the right */ background-repeat: no-repeat; color: white; /* Ensure text is visible over the background */ padding: 100px 20px; text-align: center; height: 400px; /* Adjust height as needed */ padding-left: 30rem; }
+.page-header { position: relative; display: flex; /* Enable Flexbox */ flex-direction: column; /* Stack elements vertically */ justify-content: center; /* Align text inthe gradient area */ align-items: center; /* Align text itself*/ text-align: center; /* Combined background with image and gradient */ background-image: url("/assets/images/logo_idbc–sticker square.jpg"), linear-gradient(120deg, #155799, #159957); /* Custom image from _config.yml */ background-size: 15% 100%, cover; background-position: left center, right center; /* Image on the left, gradient on the right */ background-repeat: no-repeat; color: white; /* Ensure text is visible over the background */ padding: 100px 20px; text-align: center; height: 30vh; /* Adjust height as needed */ padding-left: 16vw; }
 
 .page-header h1, .page-header p { position: relative; z-index: 1; /* Ensure text stays above background */ margin: 0; /* Remove default margins */ }
 
-.page-header p { margin-top: 10px; /* Add space between the title and description */ }
+.page-header p { margin-top: 3vh; /* Add space between the title and description */ }
+
+/* Global reset for list styles */
+ul { list-style: none; margin: 0; padding: 0; }
+
+/* Header and Navigation Bar Styling */
+header { background-color: #333; color: white; padding: 1vh 0; position: fixed; width: 100%; top: 0; left: 0; z-index: 1000; }
+header .nav-bar { display: flex; justify-content: space-between; align-items: center; padding: 0 1vw; width: 100%; }
+header .nav-links { display: flex; }
+header .nav-links li { margin-right: 2vw; }
+header .nav-links li a { color: white; text-decoration: none; font-size: 1.2em; }
+header .nav-links li a:hover { text-decoration: underline; }
+header .nav-toggle { display: none; font-size: 1.5em; cursor: pointer; }
+
+/* Mobile View: Hide navigation links and show hamburger menu */
+@media screen and (max-width: 768px) { .nav-links { display: none; flex-direction: column; align-items: center; width: 100%; position: absolute; top: 60px; left: 0; background-color: #333; padding: 10px 0; }
+  .nav-links li { margin: 10px 0; }
+  .nav-links a { font-size: 1.5em; }
+  .nav-toggle { display: block; }
+  nav.open .nav-links { display: flex; } }
+/* Prevent content from hiding behind the fixed navbar */
+body { padding-top: 5.5vh; /* Adjust based on your navbar height */ }

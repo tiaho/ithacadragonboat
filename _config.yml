@@ -32,7 +32,6 @@ github_username:  ithacadragonboat
 
 # Build settings
 # theme: minima
-# theme: hanuman
 remote_theme: pages-themes/cayman@v0.2.0
 
 plugins:
@@ -41,6 +40,23 @@ plugins:
 
 header:
   image: "/assets/images/logo_idbc–sticker square.jpg"
+
+# Navigation links
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Practices
+    url: /practices/
+  - title: Contact Us
+    url: /contact_us/
+
+
+sass:
+  sass_dir: _sass
+  css_dir: assets/css
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
