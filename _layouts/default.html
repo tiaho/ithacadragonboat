@@ -41,7 +41,6 @@
     <header>
       <nav class="nav-bar">
         <div class="hamburger-menu">&#9776;</div>
-        <!-- <div class="nav-toggle" onclick="toggleNav()">&#9776;</div> -->
         <ul class="nav-links">
           {% for item in site.navigation %}
             <li><a href="{{ item.url }}">{{ item.title }}</a></li>
@@ -54,14 +53,6 @@
     <!-- Main Content -->
     <main id="content" class="main-content" role="main">
       {{ content }}
-
-
-    <script>
-      function toggleNav() {
-        const nav = document.querySelector('nav');
-        nav.classList.toggle('open');
-      }
-    </script>
 
       <footer class="site-footer">
         <a href="mailto:hello@ithacadragonboat.net"><img src="/assets/images/email_icon.png" alt="Email" width="35vh" style="position: relative; top: 1vh">
@@ -77,3 +68,6 @@
     </main>
   </body>
 </html>
+
+
+

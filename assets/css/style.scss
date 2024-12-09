@@ -64,84 +64,78 @@ header {
   top: 0;
   left: 0;
   z-index: 1000;
+}
 
-  .nav-bar {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 0 1vw;
-    width: 100%;
-  }
-
-  .nav-links {
-    display: flex;
-
-    li {
-      margin-right: 2vw;
-
-      a {
-        color: white;
-        text-decoration: none;
-        font-size: 1.2em;
-
-        &:hover {
-          text-decoration: underline;
-        }
-      }
-    }
-  }
-
-  .nav-toggle {
-    display: none;
-    font-size: 1.5em;
-    cursor: pointer;
-  }
-
-  .nav-links a:hover {
-	background-color: #575757;
-	border-radius: 4px;
-  }
-
-	/* Hamburger menu (hidden on desktop, visible on mobile) */
-	.hamburger-menu {
-	  display: none;
-	  flex-direction: column;
-	  justify-content: space-between;
-	  width: 30px;
-	  height: 20px;
-	  cursor: pointer;
-	}
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1vw;
+  width: 100%;
 }
 
 
+.nav-links {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+
+  li {
+    margin-right: 2vw;
+
+    a {
+      color: white;
+      text-decoration: none;
+      font-size: 1.2em;
+
+      &:hover {
+        color: white;
+        font-size: 1.2em;
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+/* Hamburger menu (hidden on desktop, visible on mobile) */
+.hamburger-menu {
+  display: none;
+  cursor: pointer;
+}
+
 /* Mobile View: Hide navigation links and show hamburger menu */
 @media screen and (max-width: 768px) {
+
   /* Hide the normal nav menu on mobile */
   .nav-links {
     display: none;
     position: absolute;
-    top: 60px;
-    right: 20px;
+    top: 4vh;
+    right: 1vw;
     background-color: #333;
     border-radius: 8px;
     padding: 10px;
-    width: 200px;
+    width: 100%;
+    flex-direction: column; /* Stack navigation items vertically */
+    align-items: flex-start;
   }
 
   /* Show the hamburger menu on mobile */
   .hamburger-menu {
-    display: flex;
-  }
-
-  /* Show the menu when hovering over the hamburger icon */
-  .hamburger-menu:hover + .nav-links {
     display: block;
   }
 
-  /* Stack navigation items vertically on mobile */
-  .nav-links li {
-    margin-left: 0;
-    margin-bottom: 10px;
+  /* Show nav-links on hover of hamburger menu */
+  .nav-bar:hover .nav-links {
+    display: flex;  /* Show the navigation menu when hovering over the nav-bar */
+  }
+
+  /* Ensure that the menu remains visible even if the mouse is on the nav-links */
+  .nav-bar:hover .hamburger-menu,
+  .nav-bar:hover .nav-links {
+    display: block;  /* Show both hamburger icon and nav-links */
   }
 
 }
