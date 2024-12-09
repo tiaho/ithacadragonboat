@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 /** 1. Set default font family to sans-serif. 2. Prevent iOS text size adjust after orientation change, without disabling user zoom. */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap");
@@ -321,3 +322,9 @@ a:hover { text-decoration: underline; }
 .site-footer-owner { display: block; font-weight: bold; }
 
 .site-footer-credits { color: #819198; }
+
+.page-header { position: relative; display: flex; /* Enable Flexbox */ flex-direction: column; /* Stack elements vertically */ justify-content: center; /* Align text inthe gradient area */ align-items: center; /* Align text itself*/ text-align: center; /* Combined background with image and gradient */ background-image: url("/assets/images/logo_idbc–sticker square.jpg"), linear-gradient(120deg, #155799, #159957); /* Custom image from _config.yml */ background-size: 30% 100%, cover; background-position: left center, right center; /* Image on the left, gradient on the right */ background-repeat: no-repeat; color: white; /* Ensure text is visible over the background */ padding: 100px 20px; text-align: center; height: 400px; /* Adjust height as needed */ padding-left: 30rem; }
+
+.page-header h1, .page-header p { position: relative; z-index: 1; /* Ensure text stays above background */ margin: 0; /* Remove default margins */ }
+
+.page-header p { margin-top: 10px; /* Add space between the title and description */ }

@@ -4,4 +4,7 @@
 
 # layout: home
 layout: default
+# image: /assets/images/logo_idbc–sticker square.jpg
 ---
+
+<!-- ![image](/assets/images/logo_idbc–sticker square.jpg) -->
