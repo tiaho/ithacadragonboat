@@ -11,21 +11,23 @@
   justify-content: center;  /* Align text inthe gradient area */
   align-items: center; /* Align text itself*/
   text-align: center;
+  height: 100px;
+
+  /* Reset padding/margin */
+  padding: 0;
+  margin: 0;
+
 
   /* Combined background with image and gradient */
   background-image: 
     url('{{ site.header.image }}'),
     linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);   /* Custom image from _config.yml */
   
-  background-size: 15% 100%, cover; 
+  background-size: 7% 100%, cover; 
   background-position: left center, right center;  /* Image on the left, gradient on the right */
   background-repeat: no-repeat;
   
   color: white; /* Ensure text is visible over the background */
-  padding: 100px 20px;
-  text-align: center;
-  height: 30vh; /* Adjust height as needed */
-  padding-left: 16vw;
 }
 
 .page-header h1, .page-header p {
@@ -33,11 +35,6 @@
   z-index: 1;  /* Ensure text stays above background */
   margin: 0;  /* Remove default margins */
 }
-
-.page-header p {
-  margin-top: 3vh; /* Add space between the title and description */
-}
-
 
 
 /* Global reset for list styles */
@@ -124,5 +121,5 @@ header {
 
 /* Prevent content from hiding behind the fixed navbar */
 body {
-  padding-top: 5.5vh; /* Adjust based on your navbar height */
+  padding-top: 5.8vh; /* Adjust based on your navbar height */
 }
