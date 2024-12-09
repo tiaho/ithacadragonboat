@@ -323,6 +323,8 @@ a:hover { text-decoration: underline; }
 
 .site-footer-credits { color: #819198; }
 
+.main-content { max-width: 87%; /* Remove the width restriction */ width: 100%; /* Make the content box wider */ padding: 20px; /* Optional: Add padding for internal spacing */ }
+
 .page-header { position: relative; display: flex; /* Enable Flexbox */ flex-direction: column; /* Stack elements vertically */ justify-content: center; /* Align text inthe gradient area */ align-items: center; /* Align text itself*/ text-align: center; height: 100px; /* Reset padding/margin */ padding: 0; margin: 0; /* Combined background with image and gradient */ background-image: url("/assets/images/logo_idbc–sticker square.jpg"), linear-gradient(120deg, #155799, #159957); /* Custom image from _config.yml */ background-size: 7% 100%, cover; background-position: left center, right center; /* Image on the left, gradient on the right */ background-repeat: no-repeat; color: white; /* Ensure text is visible over the background */ }
 
 .page-header h1, .page-header p { position: relative; z-index: 1; /* Ensure text stays above background */ margin: 0; /* Remove default margins */ }
@@ -347,3 +349,5 @@ header .nav-toggle { display: none; font-size: 1.5em; cursor: pointer; }
   nav.open .nav-links { display: flex; } }
 /* Prevent content from hiding behind the fixed navbar */
 body { padding-top: 5.8vh; /* Adjust based on your navbar height */ }
+
+.site-footer { text-align: center; }

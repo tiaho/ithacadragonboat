@@ -4,6 +4,15 @@
 @import 'jekyll-theme-cayman';
 
 
+
+.main-content {
+  max-width: 87%;  /* Remove the width restriction */
+  width: 100%;      /* Make the content box wider */
+  padding: 20px;    /* Optional: Add padding for internal spacing */
+}
+
+
+
 .page-header {
   position: relative;
   display: flex;  /* Enable Flexbox */
@@ -35,6 +44,7 @@
   z-index: 1;  /* Ensure text stays above background */
   margin: 0;  /* Remove default margins */
 }
+
 
 
 /* Global reset for list styles */
@@ -122,4 +132,10 @@ header {
 /* Prevent content from hiding behind the fixed navbar */
 body {
   padding-top: 5.8vh; /* Adjust based on your navbar height */
+}
+
+
+
+.site-footer {
+ text-align: center;
 }
