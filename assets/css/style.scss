@@ -58,19 +58,19 @@ $medium-breakpoint: 640px !default;
   @include large {
   	width: calc(100vw - 100px);
   	margin-left: calc(100px + 10px); 
-  	font-size: calc(1rem + 2vw);
+  	font-size: 3rem;
   }
 
   @include medium {
    	width: calc(100vw - 90px);
   	margin-left: calc(90px + 10px); 
-    font-size: calc(1rem + 2vw);
+    font-size: 2.7rem;
   }
 
   @include small {
   	width: calc(100vw - 80px);
   	margin-left: calc(80px + 10px); 
-  	font-size: calc(1rem + 2vw);
+  	font-size: calc(1rem + 3vw);
   }
 
 }

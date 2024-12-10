@@ -329,9 +329,9 @@ a:hover { text-decoration: underline; }
 @media screen and (max-width: 42em) { .page-header { height: 80px; background-size: 80px auto, cover; } }
 
 .title { margin: 0; margin-right: 10px; text-align: center; }
-@media screen and (min-width: 64em) { .title { width: calc(100vw - 100px); margin-left: calc(100px + 10px); font-size: calc(1rem + 2vw); } }
-@media screen and (min-width: 42em) and (max-width: 64em) { .title { width: calc(100vw - 90px); margin-left: calc(90px + 10px); font-size: calc(1rem + 2vw); } }
-@media screen and (max-width: 42em) { .title { width: calc(100vw - 80px); margin-left: calc(80px + 10px); font-size: calc(1rem + 2vw); } }
+@media screen and (min-width: 64em) { .title { width: calc(100vw - 100px); margin-left: calc(100px + 10px); font-size: 3rem; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .title { width: calc(100vw - 90px); margin-left: calc(90px + 10px); font-size: 2.7rem; } }
+@media screen and (max-width: 42em) { .title { width: calc(100vw - 80px); margin-left: calc(80px + 10px); font-size: calc(1rem + 3vw); } }
 
 /* Global reset for list styles */
 ul { list-style: none; margin: 0; padding: 0; }
