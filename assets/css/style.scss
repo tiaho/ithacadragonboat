@@ -3,28 +3,38 @@
 
 @import 'jekyll-theme-cayman';
 
-
-
-.main-content {
-  max-width: 87%;  /* Remove the width restriction */
-  width: 100%;      /* Make the content box wider */
-  padding: 20px;    /* Optional: Add padding for internal spacing */
-}
-
+// Breakpoints
+$large-breakpoint: 1024px !default;
+$medium-breakpoint: 640px !default;
 
 
 .page-header {
   position: relative;
   display: flex;  /* Enable Flexbox */
-  flex-direction: column;  /* Stack elements vertically */
-  justify-content: center;  /* Align text inthe gradient area */
+  justify-content: center;  /* Align text in the gradient area */
   align-items: center; /* Align text itself*/
   text-align: center;
-  height: 100px;
+  
 
   /* Reset padding/margin */
   padding: 0;
   margin: 0;
+
+
+  @include large {
+  	height: 100px;
+  	background-size: 100px auto, cover; 
+  }
+
+  @include medium {
+  	height: 90px;
+  	background-size: 90px auto, cover; 
+  }
+
+  @include small {
+  	height: 80px;
+  	background-size: 80px auto, cover; 
+  }
 
 
   /* Combined background with image and gradient */
@@ -32,17 +42,37 @@
     url('{{ site.header.image }}'),
     linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);   /* Custom image from _config.yml */
   
-  background-size: 7% 100%, cover; 
   background-position: left center, right center;  /* Image on the left, gradient on the right */
   background-repeat: no-repeat;
   
   color: white; /* Ensure text is visible over the background */
+
+
 }
 
-.page-header h1, .page-header p {
-  position: relative;
-  z-index: 1;  /* Ensure text stays above background */
-  margin: 0;  /* Remove default margins */
+.title {
+  margin: 0;
+  margin-right: 10px;
+  text-align: center;
+
+  @include large {
+  	width: calc(100vw - 100px);
+  	margin-left: calc(100px + 10px); 
+  	font-size: calc(1rem + 2vw);
+  }
+
+  @include medium {
+   	width: calc(100vw - 90px);
+  	margin-left: calc(90px + 10px); 
+    font-size: calc(1rem + 2vw);
+  }
+
+  @include small {
+  	width: calc(100vw - 80px);
+  	margin-left: calc(80px + 10px); 
+  	font-size: calc(1rem + 2vw);
+  }
+
 }
 
 
@@ -58,7 +88,7 @@ ul {
 header {
   background-color: #333;
   color: white;
-  padding: 1vh 0;
+  padding: 5px 0;
   position: fixed;
   width: 100%;
   top: 0;
@@ -70,7 +100,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 1vw;
+  padding: 0 10px;
   width: 100%;
 }
 
@@ -83,7 +113,7 @@ header {
 
 
   li {
-    margin-right: 2vw;
+    margin-right: 15px;
 
     a {
       color: white;
@@ -94,6 +124,8 @@ header {
         color: white;
         font-size: 1.2em;
         text-decoration: underline;
+        background-color: #575757;
+
       }
     }
   }
@@ -106,14 +138,16 @@ header {
 }
 
 /* Mobile View: Hide navigation links and show hamburger menu */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: #{$medium-breakpoint}) {
+
 
   /* Hide the normal nav menu on mobile */
   .nav-links {
     display: none;
     position: absolute;
-    top: 4vh;
-    right: 1vw;
+    top: 25px;
+    right: 4px;
+    font-size: 1em;
     background-color: #333;
     border-radius: 8px;
     padding: 10px;
@@ -125,7 +159,7 @@ header {
   /* Show the hamburger menu on mobile */
   .hamburger-menu {
     display: block;
-    height: 3.5vh;
+    height: 29px;
   }
 
   /* Show nav-links on hover of hamburger menu */
@@ -139,11 +173,17 @@ header {
 
 /* Prevent content from hiding behind the fixed navbar */
 body {
-  padding-top: 5.8vh; /* Adjust based on your navbar height */
+  padding-top: 39px; /* Adjust based on your navbar height */
 }
 
+
+.main-content {
+  max-width: 100%;  /* Remove the width restriction */
+  width: 100%;      /* Make the content box wider */
+}
 
 
 .site-footer {
- text-align: center;
+  text-align: center;
 }
+
