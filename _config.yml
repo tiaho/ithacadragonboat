@@ -47,8 +47,12 @@ navigation:
     url: /
   - title: About
     url: /about/
+  - title: History
+    url: /history/    
   - title: Practices
     url: /practices/
+  - title: Join Us
+    url: /joinus/    
   - title: Contact Us
     url: /contact_us/
 
