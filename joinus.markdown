@@ -1,0 +1,19 @@
+---
+layout: default
+title: Join Us
+permalink: /joinus/
+---
+
+[Member Waiver](https://docs.google.com/forms/d/e/1FAIpQLSfVA59rJRIFjxIg1vsD3L76E-4eP_cOuxH30N4r0W_H269dDg/viewform)
+
+[Non-Member Waiver](https://docs.google.com/forms/d/e/1FAIpQLSck8b_lg0yNpbjTjdn5q5MSzNZW_rW3PDeylLjhIunQQOqoAA/viewform)
+
+For new paddlers...
+- It's a water sport, dress to get wet.  
+- Bring a Water bottle, hat, sunglasses on boat, no other personal items.
+- Car Keys can be stored in the shed.
+- Apply sunscreen before practice.
+- Arrive at least 15 minutes early.
+- Ensure applicable membership waiver/community event waiver is completed on line.
+- Pay membership dues or $10 guest fee before practice.
+- We accept cash, Venmo IDBC_INC or check.  

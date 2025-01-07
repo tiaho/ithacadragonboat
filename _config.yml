@@ -52,7 +52,9 @@ navigation:
   - title: Practices
     url: /practices/
   - title: Join Us
-    url: /joinus/    
+    url: /joinus/ 
+  - title: Links
+    url: /links/     
   - title: Contact Us
     url: /contact_us/
 
