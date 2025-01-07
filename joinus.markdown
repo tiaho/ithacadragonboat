@@ -17,3 +17,6 @@ For new paddlers...
 - Ensure applicable membership waiver/community event waiver is completed on line.
 - Pay membership dues or $10 guest fee before practice.
 - We accept cash, Venmo IDBC_INC or check.  
+
+
+Interested in joining, but is concerned about the membership cost? We have a membership assistance fund! Please [contact us](/contact_us/) for more information.
