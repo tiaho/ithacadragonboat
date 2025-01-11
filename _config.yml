@@ -53,6 +53,8 @@ navigation:
     url: /practices/
   - title: Join Us
     url: /joinus/ 
+  - title: FAQs
+    url: /faqs/ 
   - title: Links
     url: /links/     
   - title: Contact Us

@@ -20,3 +20,5 @@ For new paddlers...
 
 
 Interested in joining, but is concerned about the membership cost? We have a membership assistance fund! Please [contact us](/contact_us/) for more information.
+
+If you have more questions, please [contact us](/contact_us/)!
