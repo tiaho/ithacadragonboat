@@ -11,12 +11,15 @@ permalink: /joinus/
 For new paddlers...
 - It's a water sport, dress to get wet.  
 - Bring a Water bottle, hat, sunglasses on boat, no other personal items.
-- Car Keys can be stored in the shed.
+- Car keys can be stored in the shed.
 - Apply sunscreen before practice.
 - Arrive at least 15 minutes early.
 - Ensure applicable membership waiver/community event waiver is completed on line.
-- Pay membership dues or $10 guest fee before practice.
+- Pay membership dues ($300 for new paddlers, $250 for returning paddlers) or $10 guest fee before practice.
 - We accept cash, Venmo IDBC_INC or check.  
+
+
+How to join us...
 
 
 Interested in joining, but is concerned about the membership cost? We have a membership assistance fund! Please [contact us](/contact_us/) for more information.
