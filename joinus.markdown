@@ -16,7 +16,7 @@ For new paddlers...
 - Arrive at least 15 minutes early.
 - Ensure applicable membership waiver/community event waiver is completed online.
 - Pay membership dues ($300 for new paddlers, $250 for returning paddlers) or $10 guest fee before practice.
-- We accept cash, Venmo IDBC_INC or check.  
+- We accept cash, Venmo (IDBC_INC) or check.  
 
 
 How to join us...
