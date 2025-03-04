@@ -5,6 +5,4 @@
 layout: default
 ---
 
-
-
-![Philly 2023](/assets/images/philly_2023.jpeg)
+![Philly 2023](/assets/images/philly_2023.jpeg){:style="display:block; margin-left:auto; margin-right:auto"}
