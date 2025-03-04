@@ -5,7 +5,11 @@ permalink: /faqs/
 ---
 
 **What is dragon boating?**<br>
-Dragon boat racing began over 2,000 years ago as a religious and folk ritual in China and has since evolved into an international sport. A dragon boat is essentially a long canoe that holds 20 paddlers in 10 seats and a steerer at the back of the boat. In races, a drummer sits at the front of the boat to keep the beat of the paddle stroke. The Ithaca Dragon Boat Club fields a team, the Ithaca Gorges Dragons, that competes in races over the summer, but we also welcome recreational members and anyone interested in dragon boating.
+Dragon boats were first developed in the Pearl River Delta in Southern China 2500 years ago. The dragon, one of the 12 Chinese zodiac signs, is the ruler of water on earth. The boat is decorated with a dragon head at the bow and a tail at the stern, and scales on the sides. A drummer keeps the paddlers in sync and sits at the bow of the boat, rhythmically pounding the symbolic “heart” of the dragon. In the 20-person boats people sit side by side on seats and move the boat through the water with their paddles, which symbolize the claws of the dragon. 
+
+Dragon boat racing gained popularity in the 1970s due to the growing number of dragon boat teams around the world, but annual Dragon Boat Festivals have been around for more than 2000 years. The festivals, which take place in May or June were started to encourage rainfall, thus increasing crop yields. Dragon boating is now popular around the world, but it is rooted in Asian and Pacific Island cultures. The history and cultural significance of dragon boating is an important facet of experience.
+
+For more information, check out [The History and Culture of Dragonboating](https://www.dragonboat.sport/about-us/history-culture/) from The International Dragon Boat Federation.
 
 **Do I need to know how to swim?**<br>
 Yes. It is essential that you feel comfortable in the water and, although you don’t need to be a good swimmer, you should have some basic swim skills.

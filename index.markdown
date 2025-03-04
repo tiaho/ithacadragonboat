@@ -5,4 +5,6 @@
 layout: default
 ---
 
-Tiff wants to insert a nice, high quality team picture here.
+
+
+![Philly 2023](/assets/images/philly_2023.jpeg)

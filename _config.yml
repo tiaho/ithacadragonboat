@@ -51,6 +51,8 @@ navigation:
     url: /history/    
   - title: Practices
     url: /practices/
+  - title: Races
+    url: /races/    
   - title: Join Us
     url: /joinus/ 
   - title: FAQs
