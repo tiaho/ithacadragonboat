@@ -22,3 +22,5 @@ Secretary: [Ethan Jones](mailto:ejones@ithacadragonboat.net)
 Members at Large: [Tiffany Ho](mailto:tho@ithacadragonboat.net), [Surya Saha](mailto:ssaha@ithacadragonboat.net), [Margaret Snow](mailto:msnow@ithacadragonboat.net)
 
 ### Coaches
+
+Coming soon!
