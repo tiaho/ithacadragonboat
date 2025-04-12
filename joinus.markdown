@@ -7,6 +7,8 @@ permalink: /joinus/
 ## How to join
 [Email Us](mailto:hello@ithacadragonboat.net) or come by to one of our [practices](/practices/). Our season is roughly May to October, Mondays and Wednesdays 6pm-7:30pm and Saturdays 9am-10:30am at the Cass Park Docks.
 
+No experience is necessary!
+
 Interested in joining, but is concerned about the membership cost? We have a membership assistance fund! Please [contact us](/contact_us/) for more information.
 
 ## For new paddlers
