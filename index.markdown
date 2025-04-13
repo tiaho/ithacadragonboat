@@ -5,4 +5,4 @@
 layout: default
 ---
 
-![IDBC](/assets/images/DragonBoatRaces_07_29_24_CM-8.webp{:style="display:block; margin-left:auto; margin-right:auto"}
+![IDBC](/assets/images/DragonBoatRaces_07_29_24_CM-8.webp){:style="display:block; margin-left:auto; margin-right:auto"}
