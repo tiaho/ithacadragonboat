@@ -8,6 +8,8 @@ permalink: /links/
 
 [Cayuga Outrigger Canoe Club](https://cayugaoutrigger.com/)
 
+[Cornell Dragon Boat Club](https://cornelldragonboat.carrd.co/)
+
 [Cornell Outing Club](https://cornelloutingclub.org/)
 
 [Cornell Outdoor Education](https://scl.cornell.edu/coe)
