@@ -25,7 +25,7 @@ description:
   We are a fun and friendly team of all ages that enjoy spending time on Ithaca's beautiful Cayuga Lake waters.
   Whether you're looking to be part of a competitive team or just want to have fun on the water, there is a place for you and your friends.
 domain: "ithacadragonboat.net"    # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: "https://ithacadragonboat.net" # the base hostname and protocol for your site, e.g. http://example.com
+url: "https://www.ithacadragonboat.net" # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: "/"
 # twitter_username: jekyllrb
 github_username:  ithacadragonboat
