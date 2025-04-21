@@ -4,6 +4,9 @@ title: Join Us
 permalink: /joinus/
 ---
 
+Our 2025 season starting on Saturday April 26, 2025! Join us!
+{: style="text-align: center; font-size: 32px; background-color: yellow"}
+
 ## How to join
 [Email Us](mailto:hello@ithacadragonboat.net) or come by to one of our [practices](/practices/). Our season is roughly May to October, Mondays and Wednesdays 6pm-7:30pm and Saturdays 9am-10:30am at the Cass Park Docks.
 
