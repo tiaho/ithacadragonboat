@@ -4,8 +4,9 @@ title: Races
 permalink: /races/
 ---
 
-We race! For the 2025-2026 season, these are the races we are planning to attend.
+We race!
 
+For the 2025-2026 season, these are the races we are planning to attend.
 
 | Date | Race| Location |
 |:----:|:---:|:--------:|
