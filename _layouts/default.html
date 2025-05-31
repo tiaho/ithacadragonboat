@@ -51,7 +51,7 @@
     </header>
 
     <!-- Navigation Bar -->
-    <header>
+<!--     <header>
       <nav class="nav-bar">
         <div class="hamburger-menu">&#9776;</div>
         <ul class="nav-links">
@@ -60,8 +60,40 @@
           {% endfor %}
         </ul>
       </nav>
+    </header> -->
+
+    <header>
+      <nav class="nav-bar">
+        <div class="hamburger-menu">&#9776;</div>
+        <ul class="nav-links">
+          {% for item in site.navigation %}
+            <li class="nav-item{% if item.submenu %} has-submenu{% endif %}">
+              <a href="{{ item.url }}">{{ item.title }}</a>
+              {% if item.submenu %}
+                <ul class="submenu">
+                  {% for subitem in item.submenu %}
+                    <li><a href="{{ subitem.url }}">{{ subitem.title }}</a></li>
+                  {% endfor %}
+                </ul>
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      </nav>
     </header>
 
+   <!--          <ul class="nav-links">
+          <li class="nav-item has-submenu">
+            <a href="#">Menu Item 1</a>
+            <ul class="submenu">
+              <li><a href="#">Submenu 1-1</a></li>
+              <li><a href="#">Submenu 1-2</a></li>
+            </ul>
+          </li>
+          <li class="nav-item"><a href="#">Menu Item 2</a></li>
+          <li class="nav-item"><a href="#">Menu Item 3</a></li>
+        </ul>
+ -->
     <script>
       // Get the hamburger menu and the nav-links
       const hamburgerMenu = document.querySelector('.hamburger-menu');

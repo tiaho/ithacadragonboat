@@ -110,7 +110,6 @@ header {
   width: 100%;
 }
 
-
 .nav-links {
   display: flex;
   list-style: none;
@@ -135,7 +134,44 @@ header {
       }
     }
   }
+} 
+
+.nav-item {
+  position: relative; /* Make sure submenu is positioned relative to parent */
 }
+
+.submenu {
+  display: none;  /* Hide submenu by default */
+  position: absolute;  /* Position submenu relative to parent */
+  top: 100%;  /* Place it just below the parent menu */
+  left: 0;
+  background: #333;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+  padding: 0.5rem 0;
+  margin: 0;
+  list-style: none;
+  min-width: 20px;
+  z-index: 10;
+}
+
+.has-submenu:hover > .submenu {
+  display: block;  /* Show submenu on hover */
+}
+
+.submenu li a {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: white;
+  text-decoration: none;
+  font-size: 1em;
+}
+
+.submenu li a:hover {
+  background-color: #575757;
+  font-size: 1em;
+}
+
+
 
 /* Hamburger menu (hidden on desktop, visible on mobile) */
 .hamburger-menu {

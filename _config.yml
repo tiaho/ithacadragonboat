@@ -20,7 +20,7 @@
 
 title: Ithaca Dragon Boat Club
 email: hello@ithacadragonboat.net
-description: 
+description: |
   The Ithaca Dragon Boat Club is an all-inclusive club with no experience needed to join!
   We are a fun and friendly team of all ages that enjoy spending time on Ithaca's beautiful Cayuga Lake waters.
   Whether you're looking to be part of a competitive team or just want to have fun on the water, there is a place for you and your friends.
@@ -53,6 +53,9 @@ navigation:
     url: /history/    
   - title: Practices
     url: /practices/
+    submenu:
+      - title: Newbie Days
+        url: /newbiedays/
   - title: Races
     url: /races/    
   - title: Join Us
