@@ -7,6 +7,12 @@
 $large-breakpoint: 1024px !default;
 $medium-breakpoint: 640px !default;
 
+/* need this to get bullet point lists working in the body...*/
+.main-content ul {
+  list-style-type: disc !important;
+  margin-left: 1.5em !important;
+  padding-left: 0 !important;
+}
 
 .page-header {
   position: relative;

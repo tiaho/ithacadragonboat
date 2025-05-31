@@ -49,11 +49,11 @@ No to both. Paddles and PFDs are available in our club shed. Many people who hav
 The Ithaca Dragon Boat Club registers teams to compete in several races throughout the summer. You MUST be a member of the Club in order to be eligible to race. Members are not required to participate in races. They are voluntary and involve additional fees.
 
 **What else does the Club participate in?**<br>
-Open House<br>
+- **Open House**<br>
 Each year our team hosts an open house in conjunction with other groups offering paddle sports, such as the Cayuga Outrigger Club, SUP (stand up paddleboard) Cayuga and others. This event is open to the public and offers community members an opportunity to try out all the different water sports that Ithaca has to offer.
 
-Social Events<br>
+- **Social Events**<br>
 Our team gets together for informal social events throughout the year. We have barbecues, potlucks, celebrations and other gatherings.
 
-Community Service<br>
+- **Community Service**<br>
 The Ithaca Dragon Boat Club has adopted a portion of the Cayuga Waterfront Trail. We weed, brush cut, clear litter and generally maintain the trail. We also support the events of other organizations in the area such as Plastic Tides, Friends of Stewart Park and Glorious Trash Birds. We’ve participated as a team in the Cancer Resource Center Walkathon.
