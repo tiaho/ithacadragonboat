@@ -10,9 +10,9 @@ The Ithaca Dragon Boat Club is ecstatic to welcome you to the Lake Effect Dragon
 
 Curious about competitive dragon boat racing? Ready to unleash your inner athlete and paddle with purpose? Join us on Newbie Days—dedicated to women eager to experience the thrill of dragon boat racing.
 
-These special sessions are held every other Saturday in May and June. Don't miss the chance to dive in, learn the ropes, and paddle your heart out alongside an amazing group of women. 
+These special sessions are held every other Saturday during our season. Don't miss the chance to dive in, learn the ropes, and paddle your heart out alongside an amazing group of women. 
 
-#### Upcoming Dates: Saturday June 14, June 28  
+#### Upcoming Dates: Saturday June 14, June 28, July 12, July 26
 
 #### Time: 10:30 am - 12:30 pm
 
