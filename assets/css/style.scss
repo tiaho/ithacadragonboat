@@ -81,7 +81,14 @@ $medium-breakpoint: 640px !default;
 
 }
 
+.green-text {
+  color: #01a252;
+}
 
+.green-text a {
+  color: #1e6bb8; /* Cayman default link color */
+  text-decoration: underline;
+}
 
 /* Global reset for list styles */
 ul {

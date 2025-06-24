@@ -54,6 +54,8 @@ navigation:
   - title: Practices
     url: /practices/
     submenu:
+      - title: Open House
+        url: /openhouse/
       - title: Newbie Days
         url: /newbiedays/
   - title: Races

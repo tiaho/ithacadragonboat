@@ -4,7 +4,12 @@
 
 layout: default
 ---
-Our 2025 season starting on Saturday April 26, 2025! [Join us!](/joinus/)
-{: style="text-align: center; font-size: 32px; background-color: yellow"}
+
+Interested in trying out dragon boating? Please fill up this [short survey](https://forms.gle/kwpoqoyULu5J2dLz5) and we will be in touch!
+{: style="text-align: center; font-size: 20px"}
+
+You can also check out [Newbie Days](/newbiedays/) and upcoming [Open Houses](/openhouse/).
+{: style="text-align: center; font-size: 20px"}
+
 
 ![IDBC](/assets/images/DragonBoatRaces_07_29_24_CM-8.webp){:style="display:block; margin-left:auto; margin-right:auto"}

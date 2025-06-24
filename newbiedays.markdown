@@ -12,11 +12,13 @@ Curious about competitive dragon boat racing? Ready to unleash your inner athlet
 
 These special sessions are held every other Saturday during our season. Don't miss the chance to dive in, learn the ropes, and paddle your heart out alongside an amazing group of women. 
 
-#### Upcoming Dates: Saturday June 14, June 28, July 12, July 26
-
-#### Time: 10:30 am - 12:30 pm
-
-#### Location: [Cass Park Dock, off Taughannock Boulevard](/practices)
+<div class="green-text">
+    Upcoming Dates: Saturday June 14, June 28, July 12, July 26
+    <br>
+    Time: 10:30 am - 12:30 pm
+    <br>
+    Location: <a href="/practices">Cass Park Dock, off Taughannock Boulevard</a>
+</div>
 
 ### Why join us?
 

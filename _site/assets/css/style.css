@@ -336,6 +336,10 @@ a:hover { text-decoration: underline; }
 @media screen and (min-width: 42em) and (max-width: 64em) { .title { width: calc(100vw - 90px); margin-left: calc(90px + 10px); font-size: 2.7rem; } }
 @media screen and (max-width: 42em) { .title { width: calc(100vw - 80px); margin-left: calc(80px + 10px); font-size: calc(1rem + 3vw); } }
 
+.green-text { color: #01a252; }
+
+.green-text a { color: #1e6bb8; /* Cayman default link color */ text-decoration: underline; }
+
 /* Global reset for list styles */
 ul { list-style: none; margin: 0; padding: 0; }
 

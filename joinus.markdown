@@ -4,11 +4,11 @@ title: Join Us
 permalink: /joinus/
 ---
 
-Our 2025 season starting on Saturday April 26, 2025! Join us!
-{: style="text-align: center; font-size: 32px; background-color: yellow"}
-
 ## How to join
 [Email Us](mailto:hello@ithacadragonboat.net) or come by to one of our [practices](/practices/). Our season is roughly May to October, with practices Mondays and Wednesdays 6-7:30 pm and Saturdays 9-10:30 am at the Cass Park Docks. Our women's competitive team (Lake Effect Dragons) practice Thursdays 6-7 pm, and Saturdays alternating times of 8-9 am and 10:30 am - 12:30 pm.
+
+Alternatively, fill out this [short survey](https://forms.gle/kwpoqoyULu5J2dLz5) and we will be in touch! 
+You can also check out [Newbie Days](/newbiedays/) and upcoming [Open Houses](/openhouse/).
 
 No experience is necessary!
 
