@@ -5,7 +5,7 @@ permalink: /history/
 ---
 
 The Ithaca Dragon Boat Club (IDBC) was founded in 2004. It was born out of a vision by
-Amy and Sivilay Somchanhmavong, members of the Ithaca Asian American Association
+Amy Kuo and Sivilay Somchanhmavong, members of the Ithaca Asian American Association
 (IAAA). What began as a dream to bring the ancient Chinese sport of dragon boat racing to
 the heart of the Finger Lakes region soon turned into a thriving community institution.
 
