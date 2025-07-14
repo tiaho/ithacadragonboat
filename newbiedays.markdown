@@ -28,5 +28,5 @@ These special sessions are held every other Saturday during our season. Don't mi
 
 Whether you’re looking to challenge yourself or just curious about competitive racing, we can’t wait to welcome you!  Now’s your chance to try it out and feel the adrenaline!
 
-For more information or questions, contact Deb at [dagagnon20@gmail.com](mailto:dagagnon20@gmail.com)
+For more information or questions, contact Deb at [dgagnon@ithacadragonboat.net](mailto:dgagnon@ithacadragonboat.net)
 
