@@ -37,6 +37,10 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Disable GitHub metadata to avoid API authentication errors
+github: [metadata]
 
 markdown: kramdown
 
