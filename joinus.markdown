@@ -24,8 +24,6 @@ Interested in joining, but is concerned about the membership cost? We have a mem
 - Pay membership dues ($300 for new paddlers, $250 for returning paddlers) or $10 guest fee before practice.
 - We accept cash, Venmo (IDBC_INC) or check.  
 
-[Member Waiver](https://docs.google.com/forms/d/e/1FAIpQLSfVA59rJRIFjxIg1vsD3L76E-4eP_cOuxH30N4r0W_H269dDg/viewform)
-
-[Non-Member Waiver](https://docs.google.com/forms/d/e/1FAIpQLSck8b_lg0yNpbjTjdn5q5MSzNZW_rW3PDeylLjhIunQQOqoAA/viewform)
+[Special Event Waiver](https://docs.google.com/forms/d/e/1FAIpQLSdB9UrKVvhfP0s-DQEidj98_iDNKYt7OGfnPrhZO0CuGsviUQ/viewform)
 
 If you have more questions, please [contact us](/contact_us/)!
