@@ -15,13 +15,13 @@ Ithaca Lake Effect Dragons (LED) is a women’s competitive team formed at their
 
 President: [Sivilay Somchanhmavong](mailto:ssomchanhmavong@ithacadragonboat.net)
 
-Vice President: [George Buchholz](mailto:gbuchholz@ithacadragonboat.net)
+Vice President: [Surya Saha](mailto:ssaha@ithacadragonboat.net)
 
-Treasurer: [Paula Loskamp](mailto:ploskamp@ithacadragonboat.net)
+Treasurer: [Sierra Coathup](mailto:scoathup@ithacadragonboat.net)
 
-Secretary: [Ethan Jones](mailto:ejones@ithacadragonboat.net)
+Secretary: [Tiffany Ho](mailto:tho@ithacadragonboat.net)
 
-Members at Large: [Tiffany Ho](mailto:tho@ithacadragonboat.net), [Surya Saha](mailto:ssaha@ithacadragonboat.net), [Margaret Snow](mailto:msnow@ithacadragonboat.net)
+Members at Large: [Vito Brancato](mailto:vbrancato@ithacadragonboat.net)
 
 Contact all board members at [board@ithacadragonboat.net](mailto:board@ithacadragonboat.net)
 
