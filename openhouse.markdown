@@ -15,13 +15,14 @@ Everyone aged 12 and up is welcome to join us. If you are between the ages of 12
 Since it's a water sport, please dress for the weather and be prepared to get wet. Remember to bring a water bottle, hat, and sunglasses.
 
 <div class="green-text">
-    Date: Saturday July 12, 2025
+    Dates: Saturday June 13th, 2026 and Saturday July 18th, 2026
     <br>
-    Time: 9 am - 11 am
+    Time: 10am - 12pm
     <br>
     Location: <a href="/practices">Cass Park Dock, off Taughannock Boulevard</a>
 </div>
 
-Please complete the [Non-Member Waiver](https://docs.google.com/forms/d/e/1FAIpQLSck8b_lg0yNpbjTjdn5q5MSzNZW_rW3PDeylLjhIunQQOqoAA/viewform) in advance if possible. We will have paper copies on site.
+
+Please complete the [Special Event Waiver](https://docs.google.com/forms/d/e/1FAIpQLSdB9UrKVvhfP0s-DQEidj98_iDNKYt7OGfnPrhZO0CuGsviUQ/viewform) in advance if possible. We will have paper copies on site.
 
 For more information or questions, contact Surya at [ssaha@ithacadragonboat.net](mailto:ssaha@ithacadragonboat.net)
