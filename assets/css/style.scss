@@ -151,14 +151,21 @@ header {
   display: none;  /* Hide submenu by default */
   position: absolute;  /* Position submenu relative to parent */
   top: 100%;  /* Place it just below the parent menu */
-  left: 0;
+  left: 50%;
+  transform: translateX(-50%);  /* Center under parent */
   background: #333;
   box-shadow: 0 2px 5px rgba(0,0,0,0.15);
   padding: 0.5rem 0;
   margin: 0;
   list-style: none;
-  min-width: 20px;
+  min-width: 50px;
+  white-space: nowrap;
   z-index: 10;
+}
+
+.submenu li {
+  margin-right: 0;  /* Override .nav-links li margin */
+  text-align: center;
 }
 
 .has-submenu:hover > .submenu {
