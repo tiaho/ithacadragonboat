@@ -6,9 +6,6 @@ permalink: /practices/
 
 Our season is roughly May to October. We practice Mondays and Wednesdays 6-7:30 pm and Saturdays 9-10:30 am at the [Cass Park Docks](https://www.google.com/maps/place/Ithaca+Dragon+Boat+Club/@42.4531796,-76.5122926,19.67z/data=!4m6!3m5!1s0x89d0817d672d9457:0xe4a1a875cfb2c0a!8m2!3d42.4529589!4d-76.5124743!16s%2Fg%2F12hq4lwf7?entry=ttu&g_ep=EgoyMDI0MTIwNC4wIKXMDSoASAFQAw%3D%3D).
 
-Our women's competitive team (Lake Effect Dragons) practice Thursdays 6-7 pm, and Saturdays alternating times of 8-9 am and 10:30 am - 12:30 pm.
-- For more information about women's team specific newbie days, click [here](/newbiedays)
-
 During the offseason, we have winter workouts, also Monday and Wednesday evenings. [Contact us](/contact_us/) for more information!
 
 <br>
