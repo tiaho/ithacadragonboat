@@ -21,8 +21,4 @@ permalink: /contact_us/
 	<img src="/assets/images/instagram_icon.png" alt="Instagram" width="35vh" style="position: relative; top: 1vh">
 [Instagram](https://www.instagram.com/ithaca_dragon_boat/)
 
-<a href="https://www.meetup.com/Ithaca-Dragon-Boat-Club/">
-	<img src="/assets/images/meetup_icon.png" alt="Meetup" width="35vh" style="position: relative; top: 1vh">
-[Meetup](https://www.meetup.com/Ithaca-Dragon-Boat-Club/)
-
 Mailing Address: P.O. Box 4016, Ithaca, NY 14851
